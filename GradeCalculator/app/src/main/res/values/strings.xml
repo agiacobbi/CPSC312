@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="desired_grade">Desired grade: </string>
+    <string name="required_avg">Min average required: </string>
+    <string name="current_avg">Current average required: </string>
+    <string name="final_weight">Final percentage weight: </string>
+    <string name="button_calculate">Calculate!</string>
+    <string name="min_average_required">Min average required: </string>
+    <string name="current_average_required">Current average required:</string>
+    <string name="final_percentage_weight">Final percentage weight:</string>
+    <string name="character_letter_grade_here">character letter grade here</string>
+    <string name="numeric_average_here">numeric average here</string>
+    <string name="final_weight_here">final % weight here</string>
+    <string name="do_not_take_final">You do not need to take the final to earn a</string>
+    <string name="you_need_score">You need a score of</string>
+    <string name="on_the_final">on the final to earn a</string>
+    <string name="toast_message">ERROR: All fields must be filled</string>
+</resources>

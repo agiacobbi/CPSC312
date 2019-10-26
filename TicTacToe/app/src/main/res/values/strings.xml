@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="instructions">Welcome to Tic Tac Toe! There are two players. Player 1 is
+        represented by a space shuttle and Player 2 is represented by a UFO. The first player
+        to get 3 space ships in a row vertically, horizontally, or diagonally wins.
+    </string>
+    <string name="player_1_name">Player 1 Name:</string>
+    <string name="player_1_hint">Player 1 enter your name</string>
+    <string name="player_2_name">Player 2 Name:</string>
+    <string name="player_2_hint">Player 2 enter your name</string>
+    <string name="play">PLAY!</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="quit">QUIT</string>
+</resources>
