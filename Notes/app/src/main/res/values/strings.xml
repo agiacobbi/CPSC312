@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="add_note">Add note</string>
+    <string-array name="noteTypesArray">
+        <item>Personal</item>
+        <item>School</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+</resources>
